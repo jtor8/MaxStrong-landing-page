@@ -831,12 +831,10 @@
     
   .email-and-text-desktop > h3 {
     text-align:left;
-    /*padding-left: 5%; Try without  */
   }
    
   #email {
     width: 60%;
-    /*margin-left: -5%; No longer needed */
     padding-left:17px;
   }
     
@@ -845,5 +843,5 @@
   }
   
   .footer-copyright {
-    display:none;
+    display: none;
   }
